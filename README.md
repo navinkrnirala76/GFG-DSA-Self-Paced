@@ -1,2 +1,2 @@
-# GFG-Self-Paced
+# GFG-DSA-Self-Paced
  
